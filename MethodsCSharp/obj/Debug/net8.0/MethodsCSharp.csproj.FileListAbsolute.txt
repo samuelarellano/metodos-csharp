@@ -1,0 +1,15 @@
+C:\Users\sarellano\source\repos\metodos-csharp\MethodsCSharp\bin\Debug\net8.0\MethodsCSharp.exe
+C:\Users\sarellano\source\repos\metodos-csharp\MethodsCSharp\bin\Debug\net8.0\MethodsCSharp.deps.json
+C:\Users\sarellano\source\repos\metodos-csharp\MethodsCSharp\bin\Debug\net8.0\MethodsCSharp.runtimeconfig.json
+C:\Users\sarellano\source\repos\metodos-csharp\MethodsCSharp\bin\Debug\net8.0\MethodsCSharp.dll
+C:\Users\sarellano\source\repos\metodos-csharp\MethodsCSharp\bin\Debug\net8.0\MethodsCSharp.pdb
+C:\Users\sarellano\source\repos\metodos-csharp\MethodsCSharp\obj\Debug\net8.0\MethodsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarellano\source\repos\metodos-csharp\MethodsCSharp\obj\Debug\net8.0\MethodsCSharp.AssemblyInfoInputs.cache
+C:\Users\sarellano\source\repos\metodos-csharp\MethodsCSharp\obj\Debug\net8.0\MethodsCSharp.AssemblyInfo.cs
+C:\Users\sarellano\source\repos\metodos-csharp\MethodsCSharp\obj\Debug\net8.0\MethodsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\sarellano\source\repos\metodos-csharp\MethodsCSharp\obj\Debug\net8.0\MethodsCSharp.sourcelink.json
+C:\Users\sarellano\source\repos\metodos-csharp\MethodsCSharp\obj\Debug\net8.0\MethodsCSharp.dll
+C:\Users\sarellano\source\repos\metodos-csharp\MethodsCSharp\obj\Debug\net8.0\refint\MethodsCSharp.dll
+C:\Users\sarellano\source\repos\metodos-csharp\MethodsCSharp\obj\Debug\net8.0\MethodsCSharp.pdb
+C:\Users\sarellano\source\repos\metodos-csharp\MethodsCSharp\obj\Debug\net8.0\MethodsCSharp.genruntimeconfig.cache
+C:\Users\sarellano\source\repos\metodos-csharp\MethodsCSharp\obj\Debug\net8.0\ref\MethodsCSharp.dll
